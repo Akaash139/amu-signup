@@ -63,7 +63,6 @@ Integrated **Google OAuth 2.0** using `@react-oauth/google` to provide a seamles
 - [x] **Interactive UI**: Dynamic backgrounds that respond to user presence.
 - [x] **Social Auth**: Ready-to-use Google Login integration.
 - [x] **Form Validation**: Clean, user-friendly input handling.
-- [x] **SEO Optimized**: Semantic HTML and accessibility-first approach.
 
 ---
 
@@ -71,7 +70,7 @@ Integrated **Google OAuth 2.0** using `@react-oauth/google` to provide a seamles
 
 | Layer | Technology |
 | :--- | :--- |
-| **Framework** | Vite + React 19 |
+| **Framework** | Vite + React 19 + JavaScript |
 | **Styling** | Tailwind CSS v4 |
 | **Backgrounds** | OGL + Three.js |
 | **Auth** | Google OAuth (@react-oauth/google) |
