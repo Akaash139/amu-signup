@@ -20,6 +20,7 @@ npm run dev
 
 ## Project Structure
 
+```text
 src/
 │
 ├── App.jsx            # Main application entry and layout shell
@@ -30,14 +31,15 @@ src/
 ├── assets/            # Static assets and design files
 │   ├── Group1.svg     # Logo (Figma SVG)
 │   ├── hero.png       # Landing illustration
-│   └── image.jpg          # Other images/icons
+│   ├── image.jpg      # Other images/icons
 │
 ├── components/        # Reusable UI components
 │   ├── Signup.jsx     # Signup form with Google OAuth
 │   ├── Login.jsx      # Login component
 │   ├── ColorBends.jsx # WebGL animated gradient background
 │   ├── DotField.jsx   # Interactive particle background
-│   └── ...            # Other components
+│   
+```        
 
 ## Design Decisions
 
