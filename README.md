@@ -44,7 +44,7 @@ src/
 ## Design Decisions
 
 ### Interactive Backgrounds — WebGL & OGL
-I chose to use **OGL** and **Three.js** to implement high-performance, GPU-accelerated background animations (`ColorBends` and `DotField`). This provides a premium "SaaS" feel without compromising the main thread's performance.
+I chose to use **OGL** and **Three.js** to implement high-performance, GPU-accelerated background animations (`ColorBends` and `DotField`). This provides a premium feel without compromising the main thread's performance.
 
 ### Styling — Tailwind CSS v4
 The project utilizes the latest **Tailwind CSS v4** via the Vite plugin. This allows for a zero-runtime CSS footprint while maintaining a highly customizable and modern UI system.
