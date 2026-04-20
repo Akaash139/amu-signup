@@ -13,6 +13,7 @@ npm install
 # Start the development server
 npm run dev
 ```
+🔗 **[Live Demo](https://amu-signup.netlify.app/)**
 
 ---
 
