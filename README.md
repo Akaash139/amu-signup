@@ -30,14 +30,15 @@ src/
 ├── assets/            # Static assets and design files
 │   ├── Group1.svg     # Logo (Figma SVG)
 │   ├── hero.png       # Landing illustration
-│   └── ...            # Other images/icons
+│   └── image.jpg          # Other images/icons
 │
 ├── components/        # Reusable UI components
 │   ├── Signup.jsx     # Signup form with Google OAuth
+│   ├── Login.jsx      # Login component
 │   ├── ColorBends.jsx # WebGL animated gradient background
 │   ├── DotField.jsx   # Interactive particle background
-│   └── login          
-│
+│   └── ...            # Other components
+
 ## Design Decisions
 
 ### Interactive Backgrounds — WebGL & OGL
