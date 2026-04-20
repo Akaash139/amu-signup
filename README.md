@@ -16,6 +16,11 @@ npm run dev
 🔗 **[Live Demo]
 (https://amu-signup.netlify.app/)**
 
+<img width="1360" height="676" alt="image" src="https://github.com/user-attachments/assets/7a671503-3c3e-46de-ad48-3fceddce47df" />
+<img width="1363" height="636" alt="image" src="https://github.com/user-attachments/assets/04e43e3f-54d6-4346-a893-b0e8947f9347" />
+
+
+
 ---
 
 ## Project Structure
